@@ -1,2 +1,12 @@
 # LeetCode-Database-SQL-
-A structured SQL practice repository highlighting key concepts and practical query patterns to develop domain knowledge and prepare for data analytics and database-related roles.
+A structured repository of LeetCode SQL solutions designed to strengthen problem-solving and database querying skills.
+
+Covers key concepts such as:
+
+* Joins and Subqueries
+* Aggregations and Grouping
+* Window Functions (RANK, DENSE_RANK, LAG, etc.)
+* Real-world query patterns used in data analytics roles
+
+Built with a focus on clarity, optimization, and interview readiness.
+
